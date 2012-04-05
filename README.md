@@ -7,7 +7,16 @@ This is a fork version of http://www.phpletter.com/Our-Projects/AjaxFileUpload/
 1. Add argeuments support   
     Example:
 
-        data: {'argument1': 'value'}
+        $.ajaxFileUpload(
+        {
+            url: '/',
+            secureuri: false,
+            data: {                    
+                'name': 'carlcarl',
+            },
+            ...
+            ...
+        }
 
 2. Fix mimetype problem  
     If you add mimetype in your json response,
