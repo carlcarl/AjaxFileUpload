@@ -7,7 +7,7 @@ This is a fork version of http://www.phpletter.com/Our-Projects/AjaxFileUpload/
 1. Add argeuments support   
     Example:
 
-    data: {'argument1': 'value'}
+        data: {'argument1': 'value'}
 
 2. Fix mimetype problem  
     If you add mimetype in your json response,
