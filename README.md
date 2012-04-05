@@ -4,8 +4,8 @@ This is a fork version of http://www.phpletter.com/Our-Projects/AjaxFileUpload/
 
 ### Improvement and Fix ###
 
-1. Add argeuments support   
-    Example:
+1. Add arguments support   
+    You can now use `data` to send addictional arguments, Example:
 
         $.ajaxFileUpload(
         {
