@@ -24,3 +24,8 @@ This is a fork version of http://www.phpletter.com/Our-Projects/AjaxFileUpload/
     So I fix this.
 
 
+# License
+
+This package is MIT licensed and freely available.
+
+Feel free to improve this package and send a pull request to GitHub.
